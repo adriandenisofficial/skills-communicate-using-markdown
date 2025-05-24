@@ -19,3 +19,10 @@ Now I will put some javascript
 const myPotato = "Irish Potato"
 console.log(myPotato)
 ```
+
+This is my current study progress for AZ-104:
+
+- [x] Follow John Saville's tech playlist for AZ-104
+- [x] Buy the practice tests for AZ-104
+- [ ] Finish all practice tests at least 4 times.
+- [ ] Pass my exam and post it on LinkedIn!
